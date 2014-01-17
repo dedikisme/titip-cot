@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dedikisme's Blog]]></title>
+  <link href="http://blog.dedikisme.com/atom.xml" rel="self"/>
+  <link href="http://blog.dedikisme.com/"/>
+  <updated>2014-01-17T19:33:21+00:00</updated>
+  <id>http://blog.dedikisme.com/</id>
+  <author>
+    <name><![CDATA[Dedikisme]]></name>
+    <email><![CDATA[info@dedikisme.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sumpah Ribet]]></title>
+    <link href="http://blog.dedikisme.com/blog/2014/01/17/sumpah-ribet/"/>
+    <updated>2014-01-17T19:04:20+00:00</updated>
+    <id>http://blog.dedikisme.com/blog/2014/01/17/sumpah-ribet</id>
+    <content type="html"><![CDATA[<p>Beneran ribet banget blog ini, tapi asik juga gak pake database :))</p>
+]]></content>
+  </entry>
+  
+</feed>
